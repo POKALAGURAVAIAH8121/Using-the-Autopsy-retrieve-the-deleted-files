@@ -1,6 +1,6 @@
 # Using-the-Autopsy-retrieve-the-deleted-files
 
-# AIM:
+# AIM: 
 To use Autopsy in Kali Linux to retrieve and analyze deleted files from a disk image.
 
 # DESIGN STEPS:
