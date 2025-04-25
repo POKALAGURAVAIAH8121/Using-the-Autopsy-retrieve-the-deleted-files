@@ -1,10 +1,5 @@
 # Using-the-Autopsy-retrieve-the-deleted-files
 
-```
-Developed by:
-Name: Alluguri Srikrishna Teja
-Register.no: 212222040006
-```
 # AIM:
 To use Autopsy in Kali Linux to retrieve and analyze deleted files from a disk image.
 
